@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: Home;
+  src: url(../public/fonts/CinzelDecorative-Black.ttf);
+}
