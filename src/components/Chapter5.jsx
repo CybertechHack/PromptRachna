@@ -5,7 +5,7 @@ const Chapter2 = () => {
     <div className='min-h-screen px-5 py-6 w-[100vw] bg-[#0F0F0F]'>
       <h1 className='text-white font-[Home] text-4xl '>Chapter 5: The Forgotten Song</h1>  
       <div className='h-[70vh] w-[100%] mt-[6vh]  flex items-center gap-9'>
-            <img className='h-full w-[40%] object-cover transition-all duration-500 hover:scale-105 hover:brightness-110' src="public/Photos/HomeImg.jpeg" alt="" />
+            <img className='h-full w-[40%] object-cover transition-all duration-500 hover:scale-105 hover:brightness-110' src="public/Photos/Chapter5.jpeg" alt="" />
             <motion.h2 initial={{ opacity: 0, y: 50 }}
            whileInView={{ opacity: 1, y: 0 }}
             transition={{ duration: 1 }}
